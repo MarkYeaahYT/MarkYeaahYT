@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=MarkYeaahYT)
 #
 ![Stats](https://github-readme-stats.vercel.app/api?username=MarkYeaahYT&show_icons=true)
-#
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkYeaahYT&theme=blue-green)
+
 
 <!---
 MarkYeaahYT/MarkYeaahYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
