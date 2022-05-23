@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Arif Dian Suranta
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently NextJS
+- 💞️ I’m looking to collaborate on NextJS Project
+- 📫 How to reach me arifdians0384@gmail.com
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MarkYeaahYT)
 #
