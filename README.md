@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently NextJS
 - 💞️ I’m looking to collaborate on NextJS Project
-- 📫 How to reach me arifdians0384@gmail.com
+- 📫 How to reach me arifdian0384@gmail.com
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MarkYeaahYT)
 #
