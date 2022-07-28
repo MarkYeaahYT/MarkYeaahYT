@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Arif Dian Suranta
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently NextJS
-- 💞️ I’m looking to collaborate on NextJS Project
+- 👀 I’m a Full Stack Developer UI/UX Enthusiast
+- 🌱 I hope I can give you some interesting value!
 - 📫 How to reach me arifdian0384@gmail.com
+- Cheers🥂
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MarkYeaahYT)
 #
